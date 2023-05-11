@@ -46,6 +46,14 @@ Conceitos
 - Consultas SQL no Spring Data JPA
 - Projections
 
+## Aula 3
+- Dicas de currículo e portfólio
+- Perfis de projeto
+- Ambiente local com Docker Compose
+- Processo de homologação local
+- Processo de deploy com CI/CD
+- Configuração de CORS
+
 # Agradecimento
 DevSuperior e prof. dr. Nélio Alves
 
