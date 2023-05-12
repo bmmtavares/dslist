@@ -54,6 +54,12 @@ Conceitos
 - Processo de deploy com CI/CD
 - Configuração de CORS
 
+## Aula 4
+- Desenvolvimento da API "List replacement", endpoint que muda a posição do game na lista
+- Design e implementação de endpoint
+- Verbo HTTP e idempotência
+- Como atingir o nível Ultimate com Java Spring
+
 # Agradecimento
 DevSuperior e prof. dr. Nélio Alves
 
